@@ -3,4 +3,8 @@
 <template>
     <h1>Hello nitesh</h1>
 </template>
-<style scoped></style>
+<style scoped>
+h1 {
+    color: var(--primary-color);
+}
+</style>
