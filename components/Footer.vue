@@ -66,6 +66,7 @@
 #footer h2 {
     font-size: var(--big2-font);
     font-weight: 600;
+    margin-top: 0;
 }
 
 #footer .left p {

@@ -1,10 +1,36 @@
 <script setup lang='ts'>
+
 </script>
 <template>
-    <h1>Hello nitesh</h1>
+    <div class="container">
+        <div class="slideshow">
+            <div class="image-container">
+                <div class="image-holder">
+                    <img src="../public/images/image_1.jpg" alt="">
+                </div>
+            </div>
+        </div>
+
+
+        <!-- Write from here -->
+        <div>
+
+        </div>
+    </div>
 </template>
 <style scoped>
-h1 {
-    color: var(--primary-color);
+
+.slideshow{
+    
 }
+
+.image-holder img{
+    width: 100%;
+    height: auto;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 16px;
+
+}
+
 </style>
