@@ -108,13 +108,13 @@ function slideRight(){
 }
 
 .marker-container div {
-    width: 30px;
-    height: 6px;
+    width: 20px;
+    height: 4px;
     background-color: var(--color-surface-dark);
 }
 
 .marker-container .active {
-    width: 60px;
+    width: 30px;
     background-color: var(--color-primary);
 }
 </style>
