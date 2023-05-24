@@ -1,11 +1,11 @@
 <script setup lang='ts'>
 
 function slideLeft() {
-    
+
 }
 
-function slideRight(){
-    
+function slideRight() {
+
 }
 
 </script>
@@ -46,7 +46,7 @@ function slideRight(){
         <!-- Write from here -->
         <div>
 
-            <p >Hello World</p>
+            <p>Hello World</p>
         </div>
     </div>
 </template>
@@ -56,14 +56,14 @@ function slideRight(){
     overflow-x: hidden;
 }
 
-.slideshow .image-container-holder{
+.slideshow .image-container-holder {
     position: relative;
 }
 
-.slideshow .image-container-holder>button{
+.slideshow .image-container-holder>button {
     position: absolute;
     top: 50%;
-    translate: 0 -50%; 
+    translate: 0 -50%;
     border: none;
     outline: none;
     border-radius: 0;
@@ -71,11 +71,11 @@ function slideRight(){
     background-color: rgb(255, 255, 255);
 }
 
-.slideshow .image-container-holder>button.left img{
+.slideshow .image-container-holder>button.left img {
     transform: rotate(180deg);
 }
 
-.slideshow .image-container-holder>button.right{
+.slideshow .image-container-holder>button.right {
     right: 0;
 }
 
