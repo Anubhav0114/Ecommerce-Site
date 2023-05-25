@@ -13,25 +13,25 @@ function slideRight() {
     <div class="container">
         <div class="slideshow">
             <div class="image-container-holder">
-                <button class="left"><img src="../public/images/arrow.svg" alt=""></button>
+                <button class="left"><img src="/images/arrow.svg" alt=""></button>
                 <div class="image-container">
                     <div class="image-holder">
-                        <img src="../public/images/image_1.jpg" alt="">
+                        <img src="/images/image_1.jpg" alt="">
                     </div>
                     <div class="image-holder">
-                        <img src="../public/images/image_3.jpg" alt="">
+                        <img src="/images/image_3.jpg" alt="">
                     </div>
                     <div class="image-holder">
-                        <img src="../public/images/image_3.jpg" alt="">
+                        <img src="/images/image_3.jpg" alt="">
                     </div>
                     <div class="image-holder">
-                        <img src="../public/images/image_3.jpg" alt="">
+                        <img src="/images/image_3.jpg" alt="">
                     </div>
                     <div class="image-holder">
-                        <img src="../public/images/image_3.jpg" alt="">
+                        <img src="/images/image_3.jpg" alt="">
                     </div>
                 </div>
-                <button class="right"><img src="../public/images/arrow.svg" alt=""></button>
+                <button class="right"><img src="/images/arrow.svg" alt=""></button>
             </div>
 
 

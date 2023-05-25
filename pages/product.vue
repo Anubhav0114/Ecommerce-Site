@@ -6,17 +6,17 @@
         <section class="product-container">
             <div class="image-container">
                 <div class="image-holder">
-                    <img src="../public/images/image_1.jpg">
+                    <img src="/images/image_1.jpg">
                 </div>
 
                 <div class="thumbnail-container">
                     <div>
-                        <img src="../public/images/image_1.jpg">
-                        <img src="../public/images/image_1.jpg">
-                        <img src="../public/images/image_1.jpg">
-                        <img src="../public/images/image_1.jpg">
-                        <img src="../public/images/image_1.jpg">
-                        <img src="../public/images/image_1.jpg">
+                        <img src="/images/image_1.jpg">
+                        <img src="/images/image_1.jpg">
+                        <img src="/images/image_1.jpg">
+                        <img src="/images/image_1.jpg">
+                        <img src="/images/image_1.jpg">
+                        <img src="/images/image_1.jpg">
                     </div>
                 </div>
 
@@ -25,11 +25,11 @@
                 <h3>Samsung Galaxy M14 5G (Berry Blue,6GB,128GB Storage)</h3>
 
                 <div class="rating">
-                    <img src="../public/icons/full_star.svg">
-                    <img src="../public/icons/full_star.svg">
-                    <img src="../public/icons/full_star.svg">
-                    <img src="../public/icons/half_star.svg">
-                    <img src="../public/icons/empty_star.svg">
+                    <img src="/icons/full_star.svg">
+                    <img src="/icons/full_star.svg">
+                    <img src="/icons/full_star.svg">
+                    <img src="/icons/half_star.svg">
+                    <img src="/icons/empty_star.svg">
                     <span>(120)</span>
                 </div>
 
@@ -111,9 +111,9 @@
 
         <section class="images-list">
             <h2>From the Manufacturer</h2>
-            <img src="../public/images/image_1.jpg">
-            <img src="../public/images/image_2.jpg">
-            <img src="../public/images/image_3.jpg">
+            <img src="/images/image_1.jpg">
+            <img src="/images/image_2.jpg">
+            <img src="/images/image_3.jpg">
         </section>
     </div>
 </template>
